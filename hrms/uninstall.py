@@ -18,4 +18,4 @@ def before_uninstall():
 		)
 		raise e
 
-	click.secho("Frappe HR app customizations have been removed successfully...", fg="green")
+	click.secho("Gralab HR app customizations have been removed successfully...", fg="green")

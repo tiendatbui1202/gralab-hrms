@@ -81,7 +81,7 @@ const registerServiceWorker = async () => {
 			.then((registration) => {
 				if (config) {
 					window.frappePushNotification.initialize(registration).then(() => {
-						console.log("Frappe Push Notification initialized")
+						console.log("Gralab Push Notification initialized")
 					})
 				}
 			})
