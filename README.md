@@ -2,7 +2,7 @@
 	<a href="https://frappehr.com">
 		<img src="https://raw.githubusercontent.com/frappe/hrms/develop/hrms/public/images/frappe-hr-logo.png" height="128" alt="Gralab HR Logo">
 	</a>
-	<h2>Frappe HR</h2>
+	<h2>Gralab HR</h2>
 	<p align="center">
 		<p>Open Source, modern, and easy-to-use HR and Payroll Software for all organizations</p>
 	</p>
@@ -22,7 +22,7 @@
 
 ## Introduction
 
-Frappe HR has everything you need to drive excellence within the company. It's a complete HRMS solution with over 13 different modules right from Employee Management, Onboarding, Leaves, to Payroll, Taxation, and more!
+Gralab HR has everything you need to drive excellence within the company. It's a complete HRMS solution with over 13 different modules right from Employee Management, Onboarding, Leaves, to Payroll, Taxation, and more!
 
 ![HRMS](hrms.png)
 
@@ -61,7 +61,7 @@ Frappe HR has everything you need to drive excellence within the company. It's a
 
 ## Learning and Community
 
-1. [Documentation](https://docs.frappe.io/hr) - Extensive documentation for Frappe HR.
+1. [Documentation](https://docs.frappe.io/hr) - Extensive documentation for Gralab HR.
 2. [User Forum](https://discuss.erpnext.com/) - Engage with the community of ERPNext users and service providers.
 3. [Telegram Group](https://t.me/frappehr) - Get instant help from the community of users.
 
@@ -74,4 +74,4 @@ Frappe HR has everything you need to drive excellence within the company. It's a
 
 GNU GPL V3. (See [license.txt](license.txt) for more information).
 
-The HR code is licensed as GNU General Public License (v3) and the copyright is owned by Frappe Technologies Pvt Ltd (Frappe) and Contributors.
+The HR code is licensed as GNU General Public License (v3) and the copyright is owned by Gralab Technologies Pvt Ltd (Frappe) and Contributors.

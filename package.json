@@ -1,10 +1,10 @@
 {
   "private": true,
   "name": "hrms",
-  "description": "Open Source HR & Payroll System powered by the Frappe Framework",
+  "description": "Open Source HR & Payroll System powered by the Gralab Framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frappe/hrms.git"
+    "url": "git+https://github.com/tiendatbui1202/gralab-hrms.git"
   },
   "homepage": "https://frappe.io/hr",
   "author": "Gralab Technologies Pvt. Ltd.",
