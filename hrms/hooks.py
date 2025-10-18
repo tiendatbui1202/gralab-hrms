@@ -2,10 +2,10 @@ app_name = "hrms"
 app_title = "Gralab HR"
 app_publisher = "Gralab Technologies Pvt. Ltd."
 app_description = "Modern HR and Payroll Software"
-app_email = "contact@frappe.io"
+app_email = "info@gralab.io"
 app_license = "GNU General Public License (v3)"
 required_apps = ["frappe/erpnext"]
-source_link = "http://github.com/frappe/hrms"
+source_link = "https://github.com/tiendatbui1202/gralab-hrms"
 
 add_to_apps_screen = [
 	{
